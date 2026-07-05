@@ -25,6 +25,7 @@ Last updated: 2026-07-05
 | [repos/2026-07-05-kittenml-kittentts.md](repos/2026-07-05-kittenml-kittentts.md) | GitHub repository for a lightweight ONNX-based Python text-to-speech library with CPU-friendly models and Apache-2.0 licensing. | github-repo, text-to-speech, tts, onnx, python, edge-ai | 2026-07-05 |
 | [repos/2026-07-05-microsoft-markitdown.md](repos/2026-07-05-microsoft-markitdown.md) | GitHub repository for a Microsoft Python utility that converts documents and other files into Markdown for LLM and text-analysis workflows. | github-repo, markdown-conversion, document-processing, llm-pipelines, python, microsoft | 2026-07-05 |
 | [repos/2026-07-05-nvk-llm-wiki.md](repos/2026-07-05-nvk-llm-wiki.md) | GitHub repository for LLM-compiled knowledge bases with ingestion, compilation, research, audit, inventory, dataset, session, feedback, and multi-runtime plugin workflows. | github-repo, llm-wiki, knowledge-management, ai-agents, codex-plugin, claude-plugin, obsidian | 2026-07-05 |
+| [repos/2026-07-05-excalidraw-excalidraw.md](repos/2026-07-05-excalidraw-excalidraw.md) | GitHub repository for an open-source hand-drawn-style virtual whiteboard, React editor package, and collaborative local-first hosted app. | github-repo, excalidraw, whiteboard, diagrams, canvas, collaboration, react, typescript | 2026-07-05 |
 
 ## Categories
 
@@ -47,3 +48,4 @@ Last updated: 2026-07-05
 - 2026-07-05: Ingested repository source for KittenML/KittenTTS.
 - 2026-07-05: Ingested repository source for microsoft/markitdown.
 - 2026-07-05: Ingested repository source for nvk/llm-wiki.
+- 2026-07-05: Ingested repository source for excalidraw/excalidraw.

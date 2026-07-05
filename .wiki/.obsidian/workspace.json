@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/keyset-pagination.md",
+                "file": "wiki/concepts/semantic-search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "keyset-pagination"
+              "title": "semantic-search"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/concepts/keyset-pagination.md",
+                "file": "wiki/concepts/semantic-search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for keyset-pagination"
+              "title": "Backlinks for semantic-search"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/concepts/keyset-pagination.md",
+                "file": "wiki/concepts/semantic-search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from keyset-pagination"
+              "title": "Outgoing links from semantic-search"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/concepts/keyset-pagination.md",
+                "file": "wiki/concepts/semantic-search.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of keyset-pagination"
+              "title": "Outline of semantic-search"
             }
           }
         ]
@@ -183,11 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "a8b616889b01f71e",
+  "active": "5427220ef9c5d2f5",
   "lastOpenFiles": [
+    "raw/repos/2026-07-05-excalidraw-excalidraw.md",
+    "wiki/topics/spring-boot-production-patterns.md",
+    "wiki/concepts/keyset-pagination.md",
     "wiki/topics/go-production-reliability.md",
     "wiki/topics/java-api-operational-patterns.md",
-    "wiki/topics/spring-boot-production-patterns.md",
     "wiki/references/modern-command-line-tools.md",
     "wiki/references/llm-ready-tooling.md",
     "wiki/topics/ai-agent-workflow-customization.md",
@@ -208,8 +210,6 @@
     "raw/articles/2026-07-05-advanced-spring-boot-database-configs.md",
     "raw/articles/2026-07-05-100000-rps-with-spring-boot-4.md",
     "inbox/99% of Java Developers Log Wrong — Here’s What Senior Devs Do Instead.md",
-    "inbox/The Exception Handling Pattern 99% of Java Developers Get Wrong (And How Senior Engineers Use RFC 7807).md",
-    "inbox/Stop Writing Basic Database Configs 5 Advanced Spring Boot Patterns That Impress in Code Reviews.md",
-    "inbox/Junior Devs Use @Service. Senior Devs Use These 6 Spring Boot Layering Patterns Instead.md"
+    "inbox/The Exception Handling Pattern 99% of Java Developers Get Wrong (And How Senior Engineers Use RFC 7807).md"
   ]
 }
