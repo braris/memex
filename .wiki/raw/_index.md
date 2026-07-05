@@ -43,6 +43,10 @@ Last updated: 2026-07-05
 | [repos/2026-07-05-microsoft-markitdown.md](repos/2026-07-05-microsoft-markitdown.md) | GitHub repository for a Microsoft Python utility that converts documents and other files into Markdown for LLM and text-analysis workflows. | github-repo, markdown-conversion, document-processing, llm-pipelines, python, microsoft | 2026-07-05 |
 | [repos/2026-07-05-nvk-llm-wiki.md](repos/2026-07-05-nvk-llm-wiki.md) | GitHub repository for LLM-compiled knowledge bases with ingestion, compilation, research, audit, inventory, dataset, session, feedback, and multi-runtime plugin workflows. | github-repo, llm-wiki, knowledge-management, ai-agents, codex-plugin, claude-plugin, obsidian | 2026-07-05 |
 | [repos/2026-07-05-excalidraw-excalidraw.md](repos/2026-07-05-excalidraw-excalidraw.md) | GitHub repository for an open-source hand-drawn-style virtual whiteboard, React editor package, and collaborative local-first hosted app. | github-repo, excalidraw, whiteboard, diagrams, canvas, collaboration, react, typescript | 2026-07-05 |
+| [repos/2026-07-05-michaelliv-markit.md](repos/2026-07-05-michaelliv-markit.md) | GitHub repository for a TypeScript CLI and library that converts documents, data, web pages, media, archives, code, and plain text into Markdown with optional AI and plugin support. | github-repo, markdown-conversion, document-processing, llm-pipelines, typescript, cli, plugins | 2026-07-05 |
+| [repos/2026-07-05-markusmobius-go-trafilatura.md](repos/2026-07-05-markusmobius-go-trafilatura.md) | GitHub repository for a Go package and CLI that ports Python Trafilatura for metadata, main-text, comment, feed, sitemap, and batch web-content extraction. | github-repo, go, web-scraping, content-extraction, readability, trafilatura, cli, nlp-corpora | 2026-07-05 |
+| [repos/2026-07-05-microsoft-rusttraining.md](repos/2026-07-05-microsoft-rusttraining.md) | GitHub repository for Microsoft Rust training books covering bridge courses, async Rust, advanced patterns, type-driven correctness, and engineering practices with mdBook tooling. | github-repo, rust, training-materials, mdbook, programming-education, async-rust, engineering-practices, microsoft | 2026-07-05 |
+| [repos/2026-07-05-rohitg00-agentmemory.md](repos/2026-07-05-rohitg00-agentmemory.md) | GitHub repository for a TypeScript persistent memory server for AI coding agents with MCP/REST access, hooks, skills, hybrid retrieval, iii-engine runtime, and multi-agent integrations. | github-repo, agent-memory, ai-agents, mcp, codex-plugin, claude-code, retrieval, iii-engine, typescript | 2026-07-05 |
 
 ## Categories
 
@@ -66,6 +70,10 @@ Last updated: 2026-07-05
 - 2026-07-05: Ingested repository source for microsoft/markitdown.
 - 2026-07-05: Ingested repository source for nvk/llm-wiki.
 - 2026-07-05: Ingested repository source for excalidraw/excalidraw.
+- 2026-07-05: Ingested repository source for Michaelliv/markit.
+- 2026-07-05: Ingested repository source for markusmobius/go-trafilatura.
+- 2026-07-05: Ingested repository source for microsoft/RustTraining.
+- 2026-07-05: Ingested repository source for rohitg00/agentmemory.
 - 2026-07-05: Ingested article source for Penpot product homepage.
 - 2026-07-05: Ingested five article sources from inbox about AI agent tool design, Spring Boot 4 observability, Spring Boot 4 native/AOT performance, declarative REST clients, and wrk benchmarking.
 - 2026-07-05: Ingested five article sources from inbox about agentic RAG, LLM observability, Redis features, Claude Skills with Spring Boot, and database selection.

@@ -8,9 +8,13 @@ sources:
   - "raw/articles/2026-07-05-build-semantic-search-with-llm-embeddings.md"
   - "raw/articles/2026-07-05-how-to-build-agentic-rag-with-hybrid-search.md"
   - "raw/articles/2026-07-05-llm-observability-tools-for-reliable-ai-applications.md"
+  - "raw/repos/2026-07-05-michaelliv-markit.md"
+  - "raw/repos/2026-07-05-markusmobius-go-trafilatura.md"
+  - "raw/repos/2026-07-05-microsoft-rusttraining.md"
+  - "raw/repos/2026-07-05-rohitg00-agentmemory.md"
 created: 2026-07-05
 updated: 2026-07-05
-tags: [llm-tools, markdown-conversion, knowledge-management, retrieval, text-to-speech, observability, hybrid-search]
+tags: [llm-tools, markdown-conversion, knowledge-management, retrieval, text-to-speech, observability, hybrid-search, content-extraction, agent-memory, training-materials]
 aliases: [LLM tooling, AI workflow tools]
 confidence: medium
 volatility: warm
@@ -34,6 +38,16 @@ The current raw sources describe three tool families. MarkItDown converts files 
 | Semantic search pipeline | Retrieval layer | Embeds documents and queries, then retrieves nearest neighbors for search or RAG context. |
 | Hybrid search pipeline | Retrieval layer | Combines vector similarity with keyword retrieval for semantic and exact-term queries. |
 | LLM observability platforms | Operations layer | Trace model calls, tools, retrieval, prompt versions, token usage, and evaluation results. |
+| markit | TypeScript Markdown converter | Converts documents to Markdown through a Node-oriented CLI and SDK. |
+| Go-Trafilatura | Web content extraction | Extracts main web page content and metadata in Go applications. |
+| agentmemory | Persistent agent memory | Stores, searches, and inspects cross-session agent memory through hooks, MCP, REST, and UI surfaces. |
+| RustTraining | Training/reference corpus | Provides structured Rust learning material that can be indexed as agent-readable reference content. |
+
+## Content Extraction And Training Material
+
+The additional repository sources broaden the input side of the tooling stack. MarkItDown and markit focus on document-to-Markdown conversion. Go-Trafilatura focuses on web page extraction and metadata. RustTraining is not a converter, but it is a curated curriculum that can become source material for agents, search indexes, or training-oriented documentation workflows.
+
+These tools fit different trust boundaries. File converters process local or user-supplied artifacts. Web extractors process remote HTML and need network, crawling, and content-quality constraints. Training repositories provide stable learning material, but version, license, and exercise coverage still need to be tracked when reused.
 
 ## Security And Trust Boundaries
 
@@ -49,6 +63,10 @@ Observability tools add another trust boundary because they may receive prompts,
 - [[hybrid-search|Hybrid Search]] ([Hybrid Search](../concepts/hybrid-search.md)) - retrieval mechanism that combines vector and keyword evidence.
 - [[llm-application-observability|LLM Application Observability]] ([LLM Application Observability](../topics/llm-application-observability.md)) - operations layer for production LLM systems.
 - [[ai-agent-workflow-customization|AI Agent Workflow Customization]] ([AI Agent Workflow Customization](../topics/ai-agent-workflow-customization.md)) - agent packaging and workflow layers that consume these tools.
+- [[content-extraction-and-markdown-tools|Content Extraction And Markdown Tools]] ([Content Extraction And Markdown Tools](content-extraction-and-markdown-tools.md)) - comparison of MarkItDown, markit, and Go-Trafilatura.
+- [[rust-learning-resources|Rust Learning Resources]] ([Rust Learning Resources](rust-learning-resources.md)) - structured RustTraining curriculum reference.
+- [[agent-memory-systems|Agent Memory Systems]] ([Agent Memory Systems](../topics/agent-memory-systems.md)) - persistent memory as an agent tooling layer.
+- [[local-ai-agent-architectures|Local AI Agent Architectures]] ([Local AI Agent Architectures](../topics/local-ai-agent-architectures.md)) - local runtime architecture for tool-using agents.
 
 ## Sources
 
@@ -58,3 +76,7 @@ Observability tools add another trust boundary because they may receive prompts,
 - [Build Semantic Search with LLM Embeddings](../../raw/articles/2026-07-05-build-semantic-search-with-llm-embeddings.md) - source for embedding and nearest-neighbor retrieval.
 - [How to Build Agentic RAG with Hybrid Search](../../raw/articles/2026-07-05-how-to-build-agentic-rag-with-hybrid-search.md) - source for hybrid and agentic retrieval.
 - [LLM Observability Tools for Reliable AI Applications](../../raw/articles/2026-07-05-llm-observability-tools-for-reliable-ai-applications.md) - source for observability tool roles and tradeoffs.
+- [Michaelliv/markit](../../raw/repos/2026-07-05-michaelliv-markit.md) - source for a TypeScript Markdown conversion CLI and SDK.
+- [markusmobius/go-trafilatura](../../raw/repos/2026-07-05-markusmobius-go-trafilatura.md) - source for Go web content extraction.
+- [microsoft/RustTraining](../../raw/repos/2026-07-05-microsoft-rusttraining.md) - source for structured Rust training content.
+- [rohitg00/agentmemory](../../raw/repos/2026-07-05-rohitg00-agentmemory.md) - source for persistent agent memory tooling.

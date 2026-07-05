@@ -26,3 +26,8 @@
 ## [2026-07-05] ingest | 5 inbox files processed into raw/articles (agentic RAG with hybrid search, LLM observability tools, Redis backend features, Claude Skills in Spring Boot, database selection)
 ## [2026-07-05] compile | 12 post-compile sources -> 4 new articles (hybrid-search, llm-application-observability, backend-data-infrastructure-selection, collaborative-design-tools) + updates to agent-facing-interface-design, semantic-search, mcp-server-design, ai-agent-workflow-customization, spring-boot-production-patterns, java-api-operational-patterns, llm-ready-tooling
 ## [2026-07-05] ingest | 6 inbox files processed into raw/articles (Claude folder anatomy, local SLM agents, distributed tracing, JPA performance, Spring Boot multi-tenancy, Spring Boot features)
+## [2026-07-05] ingest | Michaelliv/markit (raw/repos/2026-07-05-michaelliv-markit.md)
+## [2026-07-05] ingest | markusmobius/go-trafilatura (raw/repos/2026-07-05-markusmobius-go-trafilatura.md)
+## [2026-07-05] ingest | microsoft/RustTraining (raw/repos/2026-07-05-microsoft-rusttraining.md)
+## [2026-07-05] ingest | rohitg00/agentmemory (raw/repos/2026-07-05-rohitg00-agentmemory.md)
+## [2026-07-05] compile | 10 post-compile sources -> 5 new articles (local-ai-agent-architectures, agent-memory-systems, spring-boot-data-access-patterns, content-extraction-and-markdown-tools, rust-learning-resources) + updates to ai-agent-workflow-customization, spring-boot-production-patterns, java-api-operational-patterns, llm-application-observability, hybrid-search, llm-ready-tooling

@@ -6,8 +6,8 @@ Last updated: 2026-07-05
 
 ## Statistics
 
-- Sources: 35 raw documents
-- Articles: 15 compiled wiki articles
+- Sources: 39 raw documents
+- Articles: 20 compiled wiki articles
 - Inventory records: 0 tracked items
 - Datasets: 0 manifests
 - Outputs: 0 generated artifacts
@@ -52,3 +52,8 @@ Last updated: 2026-07-05
 - 2026-07-05: Ingested five inbox files into raw articles.
 - 2026-07-05: Compiled post-compile sources into four new wiki articles and updated related articles.
 - 2026-07-05: Ingested six inbox files into raw articles.
+- 2026-07-05: Ingested GitHub repository Michaelliv/markit into raw repos.
+- 2026-07-05: Ingested GitHub repository markusmobius/go-trafilatura into raw repos.
+- 2026-07-05: Ingested GitHub repository microsoft/RustTraining into raw repos.
+- 2026-07-05: Ingested GitHub repository rohitg00/agentmemory into raw repos.
+- 2026-07-05: Compiled ten post-compile sources into five new articles and related updates.
