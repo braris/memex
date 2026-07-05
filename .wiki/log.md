@@ -6,3 +6,5 @@
 ## [2026-07-05] compile | 2 sources -> 4 new articles (agent-facing-interface-design, keyset-pagination, api-pagination-design, mcp-server-design)
 ## [2026-07-05] ingest | Build Semantic Search with LLM Embeddings (raw/articles/2026-07-05-build-semantic-search-with-llm-embeddings.md)
 ## [2026-07-05] ingest | GitHub Copilot Instructions vs Prompts vs Custom Agents vs Skills vs X vs WHY? (raw/articles/2026-07-05-demystifying-github-copilot-customization.md)
+## [2026-07-05] ingest | KittenML/KittenTTS (raw/repos/2026-07-05-kittenml-kittentts.md)
+## [2026-07-05] ingest | microsoft/markitdown (raw/repos/2026-07-05-microsoft-markitdown.md)

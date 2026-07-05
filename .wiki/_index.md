@@ -6,7 +6,7 @@ Last updated: 2026-07-05
 
 ## Statistics
 
-- Sources: 4 raw documents
+- Sources: 6 raw documents
 - Articles: 4 compiled wiki articles
 - Inventory records: 0 tracked items
 - Datasets: 0 manifests
@@ -40,3 +40,5 @@ Last updated: 2026-07-05
 - 2026-07-05: Compiled two raw sources into four wiki articles.
 - 2026-07-05: Ingested one inbox file about semantic search with embeddings into raw articles.
 - 2026-07-05: Ingested one inbox file about GitHub Copilot customization into raw articles.
+- 2026-07-05: Ingested GitHub repository KittenML/KittenTTS into raw repos.
+- 2026-07-05: Ingested GitHub repository microsoft/markitdown into raw repos.
