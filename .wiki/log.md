@@ -19,3 +19,4 @@
 ## [2026-07-05] ingest | Advanced Spring Boot database configs (raw/articles/2026-07-05-advanced-spring-boot-database-configs.md)
 ## [2026-07-05] ingest | Java exception handling with RFC 7807 (raw/articles/2026-07-05-java-exception-handling-rfc-7807.md)
 ## [2026-07-05] ingest | Modern Go error handling (raw/articles/2026-07-05-modern-go-error-handling.md)
+## [2026-07-05] compile | 15 newly ingested sources -> 7 new articles (semantic-search, ai-agent-workflow-customization, llm-ready-tooling, modern-command-line-tools, spring-boot-production-patterns, java-api-operational-patterns, go-production-reliability)

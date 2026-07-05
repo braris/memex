@@ -7,7 +7,7 @@ Last updated: 2026-07-05
 ## Statistics
 
 - Sources: 17 raw documents
-- Articles: 4 compiled wiki articles
+- Articles: 11 compiled wiki articles
 - Inventory records: 0 tracked items
 - Datasets: 0 manifests
 - Outputs: 0 generated artifacts
@@ -45,3 +45,4 @@ Last updated: 2026-07-05
 - 2026-07-05: Ingested two inbox files about Linux command-line tools into raw articles.
 - 2026-07-05: Ingested GitHub repository nvk/llm-wiki into raw repos.
 - 2026-07-05: Ingested eight inbox files about Spring Boot, Java, Go, Git, logging, errors, and production architecture into raw articles.
+- 2026-07-05: Compiled seven new wiki articles from newly ingested raw sources.

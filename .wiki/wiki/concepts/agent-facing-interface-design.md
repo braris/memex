@@ -35,6 +35,8 @@ Agent-facing interfaces are constrained by context cost. Too many tools, verbose
 
 - [[mcp-server-design|MCP Server Design]] ([MCP Server Design](../topics/mcp-server-design.md)) - applies agent-facing interface design to Model Context Protocol servers.
 - [[api-pagination-design|API Pagination Design]] ([API Pagination Design](../topics/api-pagination-design.md)) - another example of designing API contracts around real client behavior.
+- [[ai-agent-workflow-customization|AI Agent Workflow Customization]] ([AI Agent Workflow Customization](../topics/ai-agent-workflow-customization.md)) - workflow controls depend on well-designed agent-facing tools and errors.
+- [[java-api-operational-patterns|Java API Operational Patterns]] ([Java API Operational Patterns](../topics/java-api-operational-patterns.md)) - structured errors and context-rich logs are also useful for agent recovery.
 
 ## Sources
 

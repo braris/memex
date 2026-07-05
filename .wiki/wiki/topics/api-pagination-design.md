@@ -37,6 +37,8 @@ Total counts should be promised only when they can be computed cheaply. In Sprin
 - [[keyset-pagination|Keyset Pagination]] ([Keyset Pagination](../concepts/keyset-pagination.md)) - database-oriented cursor pagination pattern.
 - [[agent-facing-interface-design|Agent-Facing Interface Design]] ([Agent-Facing Interface Design](../concepts/agent-facing-interface-design.md)) - pagination as part of a broader tool interface.
 - [[mcp-server-design|MCP Server Design]] ([MCP Server Design](mcp-server-design.md)) - pagination guidance for MCP tools.
+- [[spring-boot-production-patterns|Spring Boot Production Patterns]] ([Spring Boot Production Patterns](spring-boot-production-patterns.md)) - applies pagination decisions inside broader Spring Boot production architecture.
+- [[modern-command-line-tools|Modern Command-Line Tools]] ([Modern Command-Line Tools](../references/modern-command-line-tools.md)) - another example of interface design around practical operators and bounded output.
 
 ## Sources
 

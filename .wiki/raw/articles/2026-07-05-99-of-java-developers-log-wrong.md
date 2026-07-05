@@ -1,4 +1,4 @@
-﻿---
+---
 title: "99% of Java Developers Log Wrong - Here's What Senior Devs Do Instead"
 source: "https://blog.stackademic.com/99-of-java-developers-log-wrong-heres-what-senior-devs-do-instead-ec8d21cffed6"
 type: articles

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/articles/2026-07-05-99-of-java-developers-log-wrong.md",
+                "file": "wiki/concepts/keyset-pagination.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-05-99-of-java-developers-log-wrong"
+              "title": "keyset-pagination"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/articles/2026-07-05-99-of-java-developers-log-wrong.md",
+                "file": "wiki/concepts/keyset-pagination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-07-05-99-of-java-developers-log-wrong"
+              "title": "Backlinks for keyset-pagination"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/articles/2026-07-05-99-of-java-developers-log-wrong.md",
+                "file": "wiki/concepts/keyset-pagination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-07-05-99-of-java-developers-log-wrong"
+              "title": "Outgoing links from keyset-pagination"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/articles/2026-07-05-99-of-java-developers-log-wrong.md",
+                "file": "wiki/concepts/keyset-pagination.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-07-05-99-of-java-developers-log-wrong"
+              "title": "Outline of keyset-pagination"
             }
           }
         ]
@@ -185,6 +185,15 @@
   },
   "active": "a8b616889b01f71e",
   "lastOpenFiles": [
+    "wiki/topics/go-production-reliability.md",
+    "wiki/topics/java-api-operational-patterns.md",
+    "wiki/topics/spring-boot-production-patterns.md",
+    "wiki/references/modern-command-line-tools.md",
+    "wiki/references/llm-ready-tooling.md",
+    "wiki/topics/ai-agent-workflow-customization.md",
+    "wiki/concepts/semantic-search.md",
+    "wiki/concepts/agent-facing-interface-design.md",
+    "raw/articles/2026-07-05-99-of-java-developers-log-wrong.md",
     "raw/articles/2026-07-05-8-linux-commands-so-good-they-feel-like-cheating.md",
     "raw/articles/2026-07-05-5-git-commands-that-feel-like-magic.md",
     "raw/articles/2026-07-05-build-semantic-search-with-llm-embeddings.md",
@@ -197,19 +206,10 @@
     "raw/articles/2026-07-05-stop-using-these-5-deprecated-linux-commands.md",
     "raw/articles/2026-07-05-ultra-fast-pagination-in-spring-boot.md",
     "raw/articles/2026-07-05-advanced-spring-boot-database-configs.md",
-    "raw/articles/2026-07-05-99-of-java-developers-log-wrong.md",
     "raw/articles/2026-07-05-100000-rps-with-spring-boot-4.md",
     "inbox/99% of Java Developers Log Wrong — Here’s What Senior Devs Do Instead.md",
     "inbox/The Exception Handling Pattern 99% of Java Developers Get Wrong (And How Senior Engineers Use RFC 7807).md",
     "inbox/Stop Writing Basic Database Configs 5 Advanced Spring Boot Patterns That Impress in Code Reviews.md",
-    "inbox/Junior Devs Use @Service. Senior Devs Use These 6 Spring Boot Layering Patterns Instead.md",
-    "inbox/100,000 RPS with Spring Boot 4 The New Architecture Blueprint (2025 Edition).md",
-    "inbox/How a 3AM memory leak changed the way I look at Golang forever.md",
-    "raw/repos/2026-07-05-nvk-llm-wiki.md",
-    "inbox/The Modern Go Developer’s Guide to Error Handling Beyond if err != nil.md",
-    "inbox/5 git commands that feel like magic.md",
-    "inbox/Stop using these 5 deprecated Linux commands (and what to use instead).md",
-    "inbox/8 Linux commands so good, they feel like cheating.md",
-    "raw/repos/2026-07-05-microsoft-markitdown.md"
+    "inbox/Junior Devs Use @Service. Senior Devs Use These 6 Spring Boot Layering Patterns Instead.md"
   ]
 }

@@ -37,6 +37,7 @@ The source treats Skills and MCP as complementary. MCP gives agents structured i
 
 - [[agent-facing-interface-design|Agent-Facing Interface Design]] ([Agent-Facing Interface Design](../concepts/agent-facing-interface-design.md)) - the underlying interface principle for MCP tools.
 - [[api-pagination-design|API Pagination Design]] ([API Pagination Design](api-pagination-design.md)) - an adjacent case where API design improves reliability under scale.
+- [[ai-agent-workflow-customization|AI Agent Workflow Customization]] ([AI Agent Workflow Customization](ai-agent-workflow-customization.md)) - MCP is one layer in the broader agent customization stack.
 
 ## Sources
 
