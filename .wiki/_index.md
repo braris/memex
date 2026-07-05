@@ -6,8 +6,8 @@ Last updated: 2026-07-05
 
 ## Statistics
 
-- Sources: 19 raw documents
-- Articles: 11 compiled wiki articles
+- Sources: 35 raw documents
+- Articles: 15 compiled wiki articles
 - Inventory records: 0 tracked items
 - Datasets: 0 manifests
 - Outputs: 0 generated artifacts
@@ -48,3 +48,7 @@ Last updated: 2026-07-05
 - 2026-07-05: Compiled seven new wiki articles from newly ingested raw sources.
 - 2026-07-05: Ingested GitHub repository excalidraw/excalidraw into raw repos.
 - 2026-07-05: Ingested Penpot product homepage into raw articles.
+- 2026-07-05: Ingested five inbox files into raw articles.
+- 2026-07-05: Ingested five inbox files into raw articles.
+- 2026-07-05: Compiled post-compile sources into four new wiki articles and updated related articles.
+- 2026-07-05: Ingested six inbox files into raw articles.

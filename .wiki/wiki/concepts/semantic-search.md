@@ -3,14 +3,15 @@ title: "Semantic Search"
 category: concept
 sources:
   - "raw/articles/2026-07-05-build-semantic-search-with-llm-embeddings.md"
+  - "raw/articles/2026-07-05-how-to-build-agentic-rag-with-hybrid-search.md"
 created: 2026-07-05
 updated: 2026-07-05
-tags: [semantic-search, embeddings, retrieval, nearest-neighbors, rag]
+tags: [semantic-search, embeddings, retrieval, nearest-neighbors, rag, hybrid-search]
 aliases: [Embedding search, Vector search]
 confidence: medium
 volatility: warm
 verified: 2026-07-05
-summary: "Semantic search retrieves documents by embedding queries and content into vectors, then ranking nearest neighbors by meaning rather than exact keyword overlap."
+summary: "Semantic search retrieves documents by embedding queries and content into vectors, then ranking nearest neighbors by meaning; hybrid search complements it with exact keyword retrieval."
 ---
 
 # Semantic Search
@@ -38,11 +39,15 @@ Semantic search is often the retrieval layer for retrieval augmented generation.
 
 Embedding search does not remove the need for good data boundaries. Chunk size, metadata filters, freshness, ranking, deduplication, and evaluation still matter. A toy in-memory nearest-neighbor index works for learning; production systems usually need persistence, metadata-aware filtering, observability, and clear latency budgets.
 
+Semantic search is also not the right tool for every query. The hybrid-search source points out that exact identifiers, rare keywords, product codes, and function names can be underweighted by vector similarity. [[hybrid-search|Hybrid Search]] ([Hybrid Search](hybrid-search.md)) combines vector retrieval with lexical ranking such as BM25 so RAG systems can retrieve both semantic matches and exact terms.
+
 ## See Also
 
 - [[llm-ready-tooling|LLM-Ready Tooling]] ([LLM-Ready Tooling](../references/llm-ready-tooling.md)) - tools such as MarkItDown and llm-wiki prepare content for retrieval and synthesis.
 - [[ai-agent-workflow-customization|AI Agent Workflow Customization]] ([AI Agent Workflow Customization](../topics/ai-agent-workflow-customization.md)) - semantic retrieval often feeds agent instructions, skills, and knowledge workflows.
+- [[hybrid-search|Hybrid Search]] ([Hybrid Search](hybrid-search.md)) - combines semantic and keyword retrieval for RAG systems.
 
 ## Sources
 
 - [Build Semantic Search with LLM Embeddings](../../raw/articles/2026-07-05-build-semantic-search-with-llm-embeddings.md) - source for the embedding and nearest-neighbor search pipeline.
+- [How to Build Agentic RAG with Hybrid Search](../../raw/articles/2026-07-05-how-to-build-agentic-rag-with-hybrid-search.md) - source for hybrid retrieval and agentic RAG extensions.

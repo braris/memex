@@ -22,3 +22,7 @@
 ## [2026-07-05] compile | 15 newly ingested sources -> 7 new articles (semantic-search, ai-agent-workflow-customization, llm-ready-tooling, modern-command-line-tools, spring-boot-production-patterns, java-api-operational-patterns, go-production-reliability)
 ## [2026-07-05] ingest | excalidraw/excalidraw (raw/repos/2026-07-05-excalidraw-excalidraw.md)
 ## [2026-07-05] ingest | Penpot product homepage (raw/articles/2026-07-05-penpot.md)
+## [2026-07-05] ingest | 5 inbox files processed into raw/articles (AI agent tool design, OpenTelemetry in Spring Boot 4, Spring Boot 4 and Project Leyden, Spring Boot 4 declarative REST clients, wrk benchmarking)
+## [2026-07-05] ingest | 5 inbox files processed into raw/articles (agentic RAG with hybrid search, LLM observability tools, Redis backend features, Claude Skills in Spring Boot, database selection)
+## [2026-07-05] compile | 12 post-compile sources -> 4 new articles (hybrid-search, llm-application-observability, backend-data-infrastructure-selection, collaborative-design-tools) + updates to agent-facing-interface-design, semantic-search, mcp-server-design, ai-agent-workflow-customization, spring-boot-production-patterns, java-api-operational-patterns, llm-ready-tooling
+## [2026-07-05] ingest | 6 inbox files processed into raw/articles (Claude folder anatomy, local SLM agents, distributed tracing, JPA performance, Spring Boot multi-tenancy, Spring Boot features)
