@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/articles/2026-07-05-ultra-fast-pagination-in-spring-boot.md",
+                "file": "raw/articles/2026-07-05-99-of-java-developers-log-wrong.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-05-ultra-fast-pagination-in-spring-boot"
+              "title": "2026-07-05-99-of-java-developers-log-wrong"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/articles/2026-07-05-ultra-fast-pagination-in-spring-boot.md",
+                "file": "raw/articles/2026-07-05-99-of-java-developers-log-wrong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-07-05-ultra-fast-pagination-in-spring-boot"
+              "title": "Backlinks for 2026-07-05-99-of-java-developers-log-wrong"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/articles/2026-07-05-ultra-fast-pagination-in-spring-boot.md",
+                "file": "raw/articles/2026-07-05-99-of-java-developers-log-wrong.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-07-05-ultra-fast-pagination-in-spring-boot"
+              "title": "Outgoing links from 2026-07-05-99-of-java-developers-log-wrong"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/articles/2026-07-05-ultra-fast-pagination-in-spring-boot.md",
+                "file": "raw/articles/2026-07-05-99-of-java-developers-log-wrong.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-07-05-ultra-fast-pagination-in-spring-boot"
+              "title": "Outline of 2026-07-05-99-of-java-developers-log-wrong"
             }
           }
         ]
@@ -185,23 +185,31 @@
   },
   "active": "a8b616889b01f71e",
   "lastOpenFiles": [
-    "raw/repos/2026-07-05-microsoft-markitdown.md",
-    "raw/repos/2026-07-05-kittenml-kittentts.md",
-    "raw/articles/2026-07-05-demystifying-github-copilot-customization.md",
-    "inbox/Demystifying GitHub Copilot Customization.md",
+    "raw/articles/2026-07-05-8-linux-commands-so-good-they-feel-like-cheating.md",
+    "raw/articles/2026-07-05-5-git-commands-that-feel-like-magic.md",
     "raw/articles/2026-07-05-build-semantic-search-with-llm-embeddings.md",
-    "inbox/Build Semantic Search with LLM Embeddings.md",
+    "raw/articles/2026-07-05-demystifying-github-copilot-customization.md",
+    "raw/articles/2026-07-05-how-a-3am-memory-leak-changed-golang.md",
+    "raw/articles/2026-07-05-java-exception-handling-rfc-7807.md",
     "raw/articles/2026-07-05-mcp-is-not-the-problem-its-your-server.md",
+    "raw/articles/2026-07-05-modern-go-error-handling.md",
+    "raw/articles/2026-07-05-spring-boot-layering-patterns.md",
+    "raw/articles/2026-07-05-stop-using-these-5-deprecated-linux-commands.md",
     "raw/articles/2026-07-05-ultra-fast-pagination-in-spring-boot.md",
-    "wiki/topics/api-pagination-design.md",
-    "wiki/topics/mcp-server-design.md",
-    "wiki/concepts/keyset-pagination.md",
-    "wiki/concepts/agent-facing-interface-design.md",
-    "inbox/Ultra fast Pagination in Spring Boot  Production Ready Keyset.md",
-    "output/_index.md",
-    "inbox/MCP is Not the Problem, It's your Server Best Practices for Building MCP Servers.md",
-    "log.md",
-    "_index.md",
-    "config.md"
+    "raw/articles/2026-07-05-advanced-spring-boot-database-configs.md",
+    "raw/articles/2026-07-05-99-of-java-developers-log-wrong.md",
+    "raw/articles/2026-07-05-100000-rps-with-spring-boot-4.md",
+    "inbox/99% of Java Developers Log Wrong — Here’s What Senior Devs Do Instead.md",
+    "inbox/The Exception Handling Pattern 99% of Java Developers Get Wrong (And How Senior Engineers Use RFC 7807).md",
+    "inbox/Stop Writing Basic Database Configs 5 Advanced Spring Boot Patterns That Impress in Code Reviews.md",
+    "inbox/Junior Devs Use @Service. Senior Devs Use These 6 Spring Boot Layering Patterns Instead.md",
+    "inbox/100,000 RPS with Spring Boot 4 The New Architecture Blueprint (2025 Edition).md",
+    "inbox/How a 3AM memory leak changed the way I look at Golang forever.md",
+    "raw/repos/2026-07-05-nvk-llm-wiki.md",
+    "inbox/The Modern Go Developer’s Guide to Error Handling Beyond if err != nil.md",
+    "inbox/5 git commands that feel like magic.md",
+    "inbox/Stop using these 5 deprecated Linux commands (and what to use instead).md",
+    "inbox/8 Linux commands so good, they feel like cheating.md",
+    "raw/repos/2026-07-05-microsoft-markitdown.md"
   ]
 }
