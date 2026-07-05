@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Knowledge Database"
 description: "Local project knowledge base for memex."
 created: 2026-07-02

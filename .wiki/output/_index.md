@@ -1,4 +1,4 @@
-﻿# Output Index
+# Output Index
 
 > Generated wiki artifacts and deliverables.
 

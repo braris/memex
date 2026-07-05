@@ -1,12 +1,12 @@
-﻿# Knowledge Database Index
+# Knowledge Database Index
 
 > Local project knowledge base for memex.
 
-Last updated: 2026-07-02
+Last updated: 2026-07-05
 
 ## Statistics
 
-- Sources: 0 raw documents
+- Sources: 1 raw document
 - Articles: 0 compiled wiki articles
 - Inventory records: 0 tracked items
 - Datasets: 0 manifests
@@ -35,3 +35,4 @@ Last updated: 2026-07-02
 ## Recent Changes
 
 - 2026-07-02: Initialized local wiki.
+- 2026-07-05: Ingested one inbox file into raw articles.

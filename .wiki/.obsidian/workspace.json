@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "6025b18ee010241f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d58136be006aacb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8b616889b01f71e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/articles/2026-07-05-mcp-is-not-the-problem-its-your-server.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-05-mcp-is-not-the-problem-its-your-server"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a0645e2d6eee3a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b136a2209ac22b22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5427220ef9c5d2f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3c6a0dfcef9803be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fe8dd96cec3b16ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f783dfe1b6821b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1eb388030900acd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "167504adc60fa442",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/articles/2026-07-05-mcp-is-not-the-problem-its-your-server.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-07-05-mcp-is-not-the-problem-its-your-server"
+            }
+          },
+          {
+            "id": "2f8227028f5c3707",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/articles/2026-07-05-mcp-is-not-the-problem-its-your-server.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-07-05-mcp-is-not-the-problem-its-your-server"
+            }
+          },
+          {
+            "id": "6652dad3697861cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fda92a2f82df56ea",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ad8ba0326d5e6f5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/articles/2026-07-05-mcp-is-not-the-problem-its-your-server.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-07-05-mcp-is-not-the-problem-its-your-server"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a8b616889b01f71e",
+  "lastOpenFiles": [
+    "output/_index.md",
+    "raw/articles/2026-07-05-mcp-is-not-the-problem-its-your-server.md",
+    "inbox/MCP is Not the Problem, It's your Server Best Practices for Building MCP Servers.md",
+    "log.md",
+    "_index.md",
+    "config.md"
+  ]
+}
