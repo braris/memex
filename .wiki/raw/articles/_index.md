@@ -22,10 +22,11 @@ Last updated: 2026-07-05
 | [2026-07-05-advanced-spring-boot-database-configs.md](2026-07-05-advanced-spring-boot-database-configs.md) | Production-grade Spring Boot database configuration patterns for pooling, transaction timeouts, dialect tuning, fetch strategies, and schema migration safety. | spring-boot, java, database-configuration, hikaricp, jpa, flyway, production-readiness | 2026-07-05 |
 | [2026-07-05-java-exception-handling-rfc-7807.md](2026-07-05-java-exception-handling-rfc-7807.md) | API exception-handling article advocating RFC 7807 Problem Details, global exception mapping, safe 500 responses, and trace IDs. | java, api-design, exception-handling, rfc-7807, spring-boot, problem-details | 2026-07-05 |
 | [2026-07-05-modern-go-error-handling.md](2026-07-05-modern-go-error-handling.md) | Modern Go error-handling guide covering %w wrapping, errors.Is, errors.As, sentinel errors, custom error types, and inspectable error chains. | go, golang, error-handling, errors-is, errors-as, software-design | 2026-07-05 |
+| [2026-07-05-penpot.md](2026-07-05-penpot.md) | Product homepage snapshot for Penpot, an open-source team design platform spanning UI design, design systems, AI workflows, code handoff, self-hosting, APIs, and MCP server links. | penpot, design-tools, open-source, ui-design, design-systems, ai-workflows, mcp, self-hosting | 2026-07-05 |
 
 ## Categories
 
-- **articles**: 2026-07-05-mcp-is-not-the-problem-its-your-server.md, 2026-07-05-ultra-fast-pagination-in-spring-boot.md, 2026-07-05-build-semantic-search-with-llm-embeddings.md, 2026-07-05-demystifying-github-copilot-customization.md, 2026-07-05-8-linux-commands-so-good-they-feel-like-cheating.md, 2026-07-05-stop-using-these-5-deprecated-linux-commands.md, 2026-07-05-100000-rps-with-spring-boot-4.md, 2026-07-05-5-git-commands-that-feel-like-magic.md, 2026-07-05-99-of-java-developers-log-wrong.md, 2026-07-05-how-a-3am-memory-leak-changed-golang.md, 2026-07-05-spring-boot-layering-patterns.md, 2026-07-05-advanced-spring-boot-database-configs.md, 2026-07-05-java-exception-handling-rfc-7807.md, 2026-07-05-modern-go-error-handling.md
+- **articles**: 2026-07-05-mcp-is-not-the-problem-its-your-server.md, 2026-07-05-ultra-fast-pagination-in-spring-boot.md, 2026-07-05-build-semantic-search-with-llm-embeddings.md, 2026-07-05-demystifying-github-copilot-customization.md, 2026-07-05-8-linux-commands-so-good-they-feel-like-cheating.md, 2026-07-05-stop-using-these-5-deprecated-linux-commands.md, 2026-07-05-100000-rps-with-spring-boot-4.md, 2026-07-05-5-git-commands-that-feel-like-magic.md, 2026-07-05-99-of-java-developers-log-wrong.md, 2026-07-05-how-a-3am-memory-leak-changed-golang.md, 2026-07-05-spring-boot-layering-patterns.md, 2026-07-05-advanced-spring-boot-database-configs.md, 2026-07-05-java-exception-handling-rfc-7807.md, 2026-07-05-modern-go-error-handling.md, 2026-07-05-penpot.md
 
 ## Recent Changes
 
@@ -37,3 +38,4 @@ Last updated: 2026-07-05
 - 2026-07-05: Ingested Linux command-line tools article from inbox.
 - 2026-07-05: Ingested deprecated Linux commands article from inbox.
 - 2026-07-05: Ingested eight inbox articles about Spring Boot, Java, Go, Git, logging, errors, and production architecture.
+- 2026-07-05: Ingested Penpot product homepage.

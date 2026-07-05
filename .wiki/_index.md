@@ -6,7 +6,7 @@ Last updated: 2026-07-05
 
 ## Statistics
 
-- Sources: 18 raw documents
+- Sources: 19 raw documents
 - Articles: 11 compiled wiki articles
 - Inventory records: 0 tracked items
 - Datasets: 0 manifests
@@ -47,3 +47,4 @@ Last updated: 2026-07-05
 - 2026-07-05: Ingested eight inbox files about Spring Boot, Java, Go, Git, logging, errors, and production architecture into raw articles.
 - 2026-07-05: Compiled seven new wiki articles from newly ingested raw sources.
 - 2026-07-05: Ingested GitHub repository excalidraw/excalidraw into raw repos.
+- 2026-07-05: Ingested Penpot product homepage into raw articles.

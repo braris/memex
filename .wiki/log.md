@@ -21,3 +21,4 @@
 ## [2026-07-05] ingest | Modern Go error handling (raw/articles/2026-07-05-modern-go-error-handling.md)
 ## [2026-07-05] compile | 15 newly ingested sources -> 7 new articles (semantic-search, ai-agent-workflow-customization, llm-ready-tooling, modern-command-line-tools, spring-boot-production-patterns, java-api-operational-patterns, go-production-reliability)
 ## [2026-07-05] ingest | excalidraw/excalidraw (raw/repos/2026-07-05-excalidraw-excalidraw.md)
+## [2026-07-05] ingest | Penpot product homepage (raw/articles/2026-07-05-penpot.md)
