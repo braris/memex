@@ -6,12 +6,12 @@ Last updated: 2026-07-05
 
 ## Statistics
 
-- Sources: 1 raw document
-- Articles: 0 compiled wiki articles
+- Sources: 4 raw documents
+- Articles: 4 compiled wiki articles
 - Inventory records: 0 tracked items
 - Datasets: 0 manifests
 - Outputs: 0 generated artifacts
-- Last compiled: Never
+- Last compiled: 2026-07-05
 - Last lint: Never
 
 ## Quick Navigation
@@ -36,3 +36,7 @@ Last updated: 2026-07-05
 
 - 2026-07-02: Initialized local wiki.
 - 2026-07-05: Ingested one inbox file into raw articles.
+- 2026-07-05: Ingested one inbox file about Spring Boot keyset pagination into raw articles.
+- 2026-07-05: Compiled two raw sources into four wiki articles.
+- 2026-07-05: Ingested one inbox file about semantic search with embeddings into raw articles.
+- 2026-07-05: Ingested one inbox file about GitHub Copilot customization into raw articles.
